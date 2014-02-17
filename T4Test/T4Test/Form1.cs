@@ -18,16 +18,6 @@ namespace T4Test
       InitializeComponent();
     }
 
-    public static class DecimalExtensions
-    {
-      public static decimal TruncateDecimal(decimal value, int precision)
-      {
-        var step = (decimal)Math.Pow(10, precision);
-        var tmp = (Int64)Math.Truncate(step * value);
-        return tmp / step;
-      }
-    }
-
     private void button1_Click(object sender, EventArgs e)
     {
       var client = new Client {FirstName = "Max", LastName = "Nikitin"};
