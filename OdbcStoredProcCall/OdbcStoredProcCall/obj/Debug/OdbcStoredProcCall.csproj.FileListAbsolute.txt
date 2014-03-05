@@ -1,0 +1,9 @@
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\bin\Debug\OdbcStoredProcCall.exe.config
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\bin\Debug\OdbcStoredProcCall.exe
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\bin\Debug\OdbcStoredProcCall.pdb
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\obj\Debug\OdbcStoredProcCall.csprojResolveAssemblyReference.cache
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\obj\Debug\OdbcStoredProcCall.Form1.resources
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\obj\Debug\OdbcStoredProcCall.Properties.Resources.resources
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\obj\Debug\OdbcStoredProcCall.csproj.GenerateResource.Cache
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\obj\Debug\OdbcStoredProcCall.exe
+D:\GIT\MySharpSamples\OdbcStoredProcCall\OdbcStoredProcCall\obj\Debug\OdbcStoredProcCall.pdb

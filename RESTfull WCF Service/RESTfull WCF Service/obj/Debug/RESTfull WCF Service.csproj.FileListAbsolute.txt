@@ -1,0 +1,5 @@
+D:\GIT\MySharpSamples\RESTfull WCF Service\RESTfull WCF Service\bin\RESTfull WCF Service.dll
+D:\GIT\MySharpSamples\RESTfull WCF Service\RESTfull WCF Service\bin\RESTfull WCF Service.pdb
+D:\GIT\MySharpSamples\RESTfull WCF Service\RESTfull WCF Service\obj\Debug\RESTfull WCF Service.csprojResolveAssemblyReference.cache
+D:\GIT\MySharpSamples\RESTfull WCF Service\RESTfull WCF Service\obj\Debug\RESTfull WCF Service.dll
+D:\GIT\MySharpSamples\RESTfull WCF Service\RESTfull WCF Service\obj\Debug\RESTfull WCF Service.pdb

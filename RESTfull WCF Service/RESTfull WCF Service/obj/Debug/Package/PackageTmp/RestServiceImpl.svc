@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RESTfull_WCF_Service.RestServiceImpl" CodeBehind="RestServiceImpl.svc.cs" %>

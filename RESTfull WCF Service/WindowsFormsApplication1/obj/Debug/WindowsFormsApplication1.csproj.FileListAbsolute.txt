@@ -1,0 +1,9 @@
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\GIT\MySharpSamples\RESTfull WCF Service\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
